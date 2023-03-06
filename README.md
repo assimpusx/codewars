@@ -14,4 +14,5 @@ List Filtering
 Find The Parity Outlier  
 Decode the Morse Code  
 Arra.diff  
+Stop Spinning my Words!  
 
