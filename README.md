@@ -15,4 +15,6 @@ Find The Parity Outlier
 Decode the Morse Code  
 Arra.diff  
 Stop Spinning my Words!  
-
+  
+5th kyu kata:  
+Moving Zeros To The End  
